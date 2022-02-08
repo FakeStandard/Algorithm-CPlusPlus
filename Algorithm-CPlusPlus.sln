@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InsertionSort", "InsertionSort\InsertionSort.vcxproj", "{CD6543AF-A644-4C98-9B31-A7C536FD3B7A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinearSearch", "LinearSearch\LinearSearch.vcxproj", "{609F30E8-DCAD-4244-AC0E-B6A5B7A75CAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{CD6543AF-A644-4C98-9B31-A7C536FD3B7A}.Release|x64.Build.0 = Release|x64
 		{CD6543AF-A644-4C98-9B31-A7C536FD3B7A}.Release|x86.ActiveCfg = Release|Win32
 		{CD6543AF-A644-4C98-9B31-A7C536FD3B7A}.Release|x86.Build.0 = Release|Win32
+		{609F30E8-DCAD-4244-AC0E-B6A5B7A75CAA}.Debug|x64.ActiveCfg = Debug|x64
+		{609F30E8-DCAD-4244-AC0E-B6A5B7A75CAA}.Debug|x64.Build.0 = Debug|x64
+		{609F30E8-DCAD-4244-AC0E-B6A5B7A75CAA}.Debug|x86.ActiveCfg = Debug|Win32
+		{609F30E8-DCAD-4244-AC0E-B6A5B7A75CAA}.Debug|x86.Build.0 = Debug|Win32
+		{609F30E8-DCAD-4244-AC0E-B6A5B7A75CAA}.Release|x64.ActiveCfg = Release|x64
+		{609F30E8-DCAD-4244-AC0E-B6A5B7A75CAA}.Release|x64.Build.0 = Release|x64
+		{609F30E8-DCAD-4244-AC0E-B6A5B7A75CAA}.Release|x86.ActiveCfg = Release|Win32
+		{609F30E8-DCAD-4244-AC0E-B6A5B7A75CAA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
