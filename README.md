@@ -5,3 +5,4 @@ Records for Algorithm(C++)
 - 插入排序法（Insertion Sort）
 
 ## Search
+- 線性搜尋法（Linear Search）
